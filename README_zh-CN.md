@@ -7,7 +7,7 @@
 
 **请注意:** 欢迎成为本项目的贡献者。但在提交 PR 之前, 请仔细阅读 [代码规范](https://github.com/Grasscutters/Grasscutter/blob/stable/CONTRIBUTING.md)。
 
-## 当前功能
+## 当前功能测试
 
 * 登录
 * 战斗
